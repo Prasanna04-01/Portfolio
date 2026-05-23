@@ -16,7 +16,7 @@ const categoryIcons: Record<string, LucideIcon> = {
 
 export function Skills() {
   return (
-    <section id="skills" className="section-padding bg-white/20">
+    <section id="expertise" className="section-padding bg-white/20">
       <div className="container-px">
         <motion.div
           variants={fadeUp}
